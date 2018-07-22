@@ -3,7 +3,7 @@
 The result of Vietnam's high school graduation exam 2018
 
 ID | Province | # records
---- | --- | ---
+--- | --- | --:
 1 | Hà Nội | 79092
 2 | TP.HCM | 78321
 3 | TP. Hải Phòng | 5099
@@ -55,7 +55,7 @@ ID | Province | # records
 49 | Đồng Nai | 28651
 50 | Long An | 14065
 51 | Đồng Tháp | 14367
-52 | An Giang | ?
+52 | An Giang | 16359
 53 | Bà Rịa – Vũng Tàu | 11846
 54 | Tiền Giang | 14106
 55 | TP.Cần Thơ | 13068
